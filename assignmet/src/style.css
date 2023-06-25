@@ -1,0 +1,25 @@
+.all{
+    border: 1px solid black;
+   margin: 100px;
+   margin-top: 150px;
+   
+   padding: 50px;
+}
+.fst{
+  flex-basis: 65%;
+    padding: 10px;
+    margin: 10px;
+}
+.scd{
+  /* border: 1px solid black; */
+/* padding: 50px; */
+margin-right: 50px;
+margin-left: 50px;
+display: block;
+  margin-bottom: 5px;
+}
+
+.frw{
+  display: flex;
+  justify-content: space-between;
+}
